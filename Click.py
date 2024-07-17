@@ -1,3 +1,3 @@
 def click():
-    print("Click")
+    print("David")
 click()
